@@ -1,0 +1,99 @@
+body{
+  
+ background: #222222;
+ margin-left: 0px;
+ margin-top: 0px;
+}
+
+.box{
+  background: #222222;
+  color: #FFFFFF;
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  border-style: solid;
+  
+  border-width: 1px;
+  border-color: #2D8585;
+  border-radius: 24px;
+  padding-left: 0px;
+  padding-bottom: 100%;
+  text-indent: 0px;
+  
+  
+}
+.in {
+  color: burlywood;
+  text-indent: 15pxpx;
+  padding-left:0px;
+  padding-top: 0px;
+  
+}
+
+.one
+{
+  background: #727272;
+  padding-bottom : 85%;
+  border-radius: 15px;
+
+
+
+color: #FAFBFF;
+
+font-family: 'Source Sans Pro', sans-serif;
+text-indent: 10px;
+margin: 8px;
+margin-top: 6px;
+
+
+  
+  
+}
+
+button{
+  background: #B34F4F;
+  color: white;
+  border: none;
+  margin-left: 15px;
+  margin-top:10px;
+  padding: 20px 80px 20px 80px;
+  text-align: center;
+  align-items: center;
+  visibility: hidden;
+  
+}
+
+
+  
+  
+
+p{
+  
+  
+font-family: 'Source Sans Pro', sans-serif;
+
+padding-top: 20px;
+  padding-left: 15px;
+  margin: 6px;
+  
+}
+ .qw{
+   margin-left: 30px;
+   width: 200px;
+   
+ }
+.area{
+  background :#727272;
+  font-family: 'Source Sans Pro', sans-serif;
+  font-size: 16px;
+  margin: 10px;
+  border: none;
+    outline-color: #2D8585;
+    outline: 0px;
+    color: #FAFBFF;
+    visibility:hidden;
+    
+}
+.area:focus{
+  border-color: #2D8585;
+  
+  
+}
